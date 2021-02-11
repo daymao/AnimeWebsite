@@ -4,6 +4,7 @@
     border-collapse: collapse;
     background-color: cornflowerblue;
 }
+
 #subHeader {
     background-color: cornflowerblue;
     color: black;
@@ -12,6 +13,7 @@
 body {
     font-family: Courier New;
 }
+
 .main {
     background: black;
     border: 4px solid black;
@@ -19,7 +21,6 @@ body {
     width: 70vw;
     height: 88vh;
 }
-
 
 h1 {
     color: black;
@@ -42,7 +43,6 @@ a {
 
 table {
     width: 90%;
-   
     font-size: 30px;
     background-color: cornflowerblue;
     font-family: Courier New;
@@ -51,9 +51,11 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
+
 th {
     background-color: #3e4444; /*This is a nice dark grey color that goes well with the table*/
 }
+
 td, th {
     border: 2px solid black;
     padding: 5px;
@@ -88,7 +90,7 @@ td, th {
     justify-self: center;
 }
 
-    /* Although I implemented this code in the JS file, I wanted to keep this hear to see what I changed in css
+    /* Although I implemented this code in the JS file, I wanted to keep this here to see what I changed in css
     .card:hover {
         transform: rotateY(180deg);
     }
