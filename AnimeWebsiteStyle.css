@@ -90,11 +90,11 @@ td, th {
     justify-self: center;
 }
 
-    /* Although I implemented this code in the JS file, I wanted to keep this here to see what I changed in css
+/* Although I implemented this code in the JS file, I wanted to keep this here to see what I changed in css
     .card:hover {
         transform: rotateY(180deg);
-    }
-    */
+}
+*/
 
 .front {
     background: black;

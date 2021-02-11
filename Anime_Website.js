@@ -32,7 +32,6 @@ for (let i = 0; i < img.length; i++) {
 }
 //End of code to rotate large anime pictures
 
-
 //This set of code below rotates the small character images and displays the information below the card
 //This code below is similar to the code above so I will not comment much
 var characters = document.querySelectorAll(".card"); //Gets all images with class name "card"
